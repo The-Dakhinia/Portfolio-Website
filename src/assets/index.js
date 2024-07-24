@@ -38,6 +38,7 @@ import tesla from "./company/tesla.png";
 import portfolio from "./portfolio.png";
 import infiscience from "./inifscience.png";
 import mealsbridge from "./mealsbridge.jpg";
+import blogs from "./blogs.png";
 
 export {
   logo,
@@ -76,4 +77,5 @@ export {
   portfolio,
   infiscience,
   mealsbridge,
+  blogs
 };

@@ -23,6 +23,7 @@ import {
     infiscience,
     mealsbridge,
     vuforia,
+    blogs
 
 } from "../assets";
 
@@ -218,6 +219,15 @@ const projects = [
         ],
         image: mealsbridge,
         source_code_link: "https://github.com/GENISIS-05/Meals-Bridge-Frontend",
+    },
+    {
+        name: "Blogs",
+        description:
+            "I have written blogs focusing on newly released PvP, multiplayer, role-playing, and fantasy games that have garnered significant attention and a passionate fan base.",
+        tags: [
+        ],
+        image: blogs,
+        source_code_link: "https://github.com/The-Dakhinia/Blogs-",
     },
 ];
 
